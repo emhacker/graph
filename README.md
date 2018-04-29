@@ -1,10 +1,10 @@
 # graph
 
-A Clojure library designed to ... well, that part is up to you.
+Not ready yet, work in progress.
 
 ## Usage
 
-FIXME
+TDB
 
 ## License
 

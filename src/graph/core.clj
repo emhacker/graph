@@ -1,6 +1,6 @@
 (ns graph.core)
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
+(defn create-graph
+  "Creates an empty graph."
+  []
+  {:nodes '() :edges '()})
