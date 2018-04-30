@@ -26,7 +26,7 @@
 ;;
 ;; Graph API.
 ;;
-(defn create-graph
+(defn new-graph
   "Creates an empty graph."
   []
   {:nodes '() :edges '()})
